@@ -4,6 +4,17 @@ Overview
 
 This lab walks through installing and configuring the open-source support ticketing system, **osTicket**, on a Windows 10 virtual machine hosted in Azure. It includes the full environment setup, software configuration, and ticket workflow simulation.
 
+## Technologies Used
+
+- Microsoft Azure (VM deployment)
+- Windows 10 Virtual Machine
+- IIS (Internet Information Services)
+- PHP 7.3.8
+- MySQL 5.5.62
+- osTicket v1.15.8
+- HeidiSQL
+- DNS and URL routing via localhost
+- User Role and SLA Configuration
 Environment Setup
 
 Create Azure Virtual Machine
