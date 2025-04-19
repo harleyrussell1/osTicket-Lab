@@ -177,3 +177,7 @@ This lab walks through the installation and configuration of the open-source sup
 - **User Role & Access Control:** Practiced department/team-based visibility and permissions
 - **Database Administration:** Used HeidiSQL to create and manage MySQL databases
 - **System Hardening:** Secured installation through permission adjustments and cleanup
+
+## Screenshots
+
+All screenshots related to this lab can be found in the [`/screenshots`](./screenshots) folder.
